@@ -1,5 +1,4 @@
-# goofyaddergame
-<h1 Goofy Adder Game>
+# Goofy Adder Game
 This is a game made by bestspacebot (same id on discord)
 Idea provided by timbnice (this is also a discord id)
 
